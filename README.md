@@ -72,5 +72,5 @@ Make sure your webcam is on.
 Feel free to reach out if you're interested in the project or want to collaborate.
 
 ```text
-Made with ❤️ by [Your Name]
+Made with ❤️ by RIA DHANKHAR
 ```
